@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+
+>Repository used to store the final project of the course
+Visual Analysis of Data (IMD1153) from UFRN (Federal University of Rio Grande do Norte)
+
+## Requeriments
+
+-Node.JS
+-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
