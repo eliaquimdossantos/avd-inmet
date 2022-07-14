@@ -17,6 +17,7 @@ import React from "react";
 function App() {
   return (
     <div className="App">
+      <h3>Comparação da média de temperatura e umidade entre dias chuvosos e não chuvosos</h3>
       <Tabs>
         <TabList>
           <Tab>APODI</Tab>

@@ -86,7 +86,7 @@ export default function Grafico({ cityData }) {
   const options = {
     animation: false,
     responsive: true,
-    aspectRatio: 2.5,
+    aspectRatio: 2.6,
     maintainAspectRatio: true,
     scales: {
       y: {
@@ -112,7 +112,7 @@ export default function Grafico({ cityData }) {
         suggestedMin: 10
       }
     },
-    plugins: {
+    plugins: {      
       legend: {
         labels: {
           usePointStyle: true,
