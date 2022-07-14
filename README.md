@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started
 
 ## Description
 
@@ -7,8 +7,7 @@ Visual Analysis of Data (IMD1153) from UFRN (Federal University of Rio Grande do
 
 ## Requeriments
 
--Node.JS
--This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-Node.JS, because this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
