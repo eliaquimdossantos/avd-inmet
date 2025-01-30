@@ -5,6 +5,8 @@
 >Repository used to store the final project of the course
 Visual Analysis of Data (IMD1153) from UFRN (Federal University of Rio Grande do Norte)
 
+![Demonstração](/public/demo.png)
+
 ## Requeriments
 
 -Node.JS, because this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
